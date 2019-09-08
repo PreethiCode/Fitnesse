@@ -1,1 +1,1 @@
-!contents -R2 -g -p -f -h
+!define path {Path to Finesse}
