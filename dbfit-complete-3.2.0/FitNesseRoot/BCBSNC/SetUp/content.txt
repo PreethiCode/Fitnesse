@@ -1,5 +1,0 @@
-!define path {Path to Finesse}
-
-!define path {Path to Finesse}
-
-!define path {Please dont add}
