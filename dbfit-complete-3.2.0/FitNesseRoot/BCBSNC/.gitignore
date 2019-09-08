@@ -8,4 +8,4 @@ files/testProgress/*
 .svn
 .DS_Store
 desktop.ini
-/*SetUp/*
+SetUp/*
