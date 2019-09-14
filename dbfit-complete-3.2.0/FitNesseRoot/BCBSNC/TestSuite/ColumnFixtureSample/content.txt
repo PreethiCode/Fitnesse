@@ -1,0 +1,15 @@
+!path C:\Users\BALA\eclipse-workspace\BCBSNC\bin
+!|ExampleFixtures.Calculator|
+|value1|value2|operator|=calculate()|
+|1|3|+|MyValue|
+
+!|ExampleFixtures.Calculator|
+|value1=|value2|operator|calculate?|
+|MyValue|3|+|7|
+
+!define Var {SELECT * FROM Products WHERE Price = :MyValue}
+
+|Query|SELECT * FROM Products WHERE Price = @MyValue|
+
+
+|Summary|

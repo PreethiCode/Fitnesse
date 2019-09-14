@@ -1,7 +1,6 @@
 !path C:\Users\BALA\eclipse-workspace\BCBSNC\bin
-!|Action Fixture|
-|start|ExampleFixtures.Program|
-|enter|setValue1|2|
-|enter|setValue2|1|
-|enter|setOperator|-|
-|check|calculate|1|
+!|ExampleFixtures.Calculator|
+|value1=|value2|operator|calculate?|
+|MyValue|3|+|7|
+
+|Summary|
